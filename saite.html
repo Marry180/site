@@ -27,7 +27,7 @@
         </center>
 
         <ul>
-            Электронная почта студента: <a href="mailto:79825834315@yandex.ru">mailto:79825834315@yandex.ru</a><br>
+            Электронная почта студента: <a href="mailto:79825834315@yandex.ru">79825834315@yandex.ru</a><br>
             Ссылка на сайт вуза студента: <a href="https://nvsu.ru/">НВГУ</a>
         </ul>
         <br>
@@ -42,14 +42,14 @@
         <br>
         <br>
         <div class="table-info">
-            <center>
+        
                 <table>
                     <colgroup>
                         <col span="4" style="background-color: lightsteelred">
                     </colgroup>
                     
-            </center>
-        </div>
+       
+    
         <div>
             <ul>
                 Моя группа: 3802<br>
@@ -59,21 +59,21 @@
         </div>
         <br>
         <div>
-            <table class="tab-1">
+           <table class="tab-1">
                 <caption>2.1 Создание таблицы</caption>
                 <tr>
-                    <td colspan="6"> </td>
+                    <td colspan="5"> </td>
                 </tr>
                 <tr>
-                    <td rowspan="4"> </td>
+                    <td rowspan="3"> </td>
                     <td> </td>
-                    <td rowspan="4"> </td>
+                    <td rowspan="3"> </td>
                     <td> </td>
                     <td> </td>
                 </tr>
                 <tr>
-                    <td rowspan="4"> </td>
-                    <td rowspan="4"> </td>
+                    <td rowspan="3"> </td>
+                    <td rowspan="3"> </td>
                     <td> </td>
                 </tr>
                 <tr>
@@ -126,6 +126,7 @@
                     <td colspan="8" style="background-color: aquamarine"></td>
                 </tr>
             </table>
+      
         </div>
         <br>
         <div class="form_1">
